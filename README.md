@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Greedy
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
@@ -42,4 +44,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
