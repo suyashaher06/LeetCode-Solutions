@@ -1,13 +1,23 @@
 class Solution {
     public boolean stoneGameIX(int[] stones) {
-        int[] f = {0, 0, 0};
+        int a = 0;
+        int b = 0;
+        int c = 0;
 
-        for (int s : stones)
-            f[s % 3]++;
+        for (int x : stones) {
+            if (x % 3 == 0) {
+                a++;
+            } else if (x % 3 == 1) {
+                b++;
+            } else {
+                c++;
+            }
+        }
 
-        if ((f[0] & 1) == 0)
-            return Math.min(f[1], f[2]) > 0;
+        if (a % 2 == 0) {
+            return b > 0 && c > 0;
+        }
 
-        return Math.abs(f[1] - f[2]) > 2;
+        return Math.abs(b - c) > 2;
     }
 }
