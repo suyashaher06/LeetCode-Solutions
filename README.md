@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 ## Recursion
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0137-single-number-ii](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [1386-cinema-seat-allocation](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
