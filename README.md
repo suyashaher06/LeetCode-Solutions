@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [1563-stone-game-v](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Recursion
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Greedy
 |  |
@@ -102,4 +105,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Binary Search
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
