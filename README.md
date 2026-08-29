@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0141-linked-list-cycle](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Simulation
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0706-design-hashmap](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -187,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
