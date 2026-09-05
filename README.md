@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1563-stone-game-v](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Breadth-First Search
 |  |
