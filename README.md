@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0118-pascals-triangle](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0137-single-number-ii](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/1563-stone-game-v) |
