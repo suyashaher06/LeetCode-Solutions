@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0706-design-hashmap](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [1386-cinema-seat-allocation](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/1563-stone-game-v) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Simulation
 |  |
