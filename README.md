@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0706-design-hashmap](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0835-image-overlap](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0706-design-hashmap](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [1386-cinema-seat-allocation](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2094-finding-3-digit-even-numbers](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2094-finding-3-digit-even-numbers](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Simulation
 |  |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/suyashaher06/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Combinatorics
